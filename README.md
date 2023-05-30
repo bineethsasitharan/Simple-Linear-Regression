@@ -1,5 +1,5 @@
 # Simple-Linear-Regression
-Simple Linear Regression : Salary Data
+Simple Linear Regression : Salary Prediction
 
 In this machine learning project, I employed a simple linear regression model to predict individuals' salaries based on their years of experience. To ensure the model's reliability, I utilized the k-fold cross-validation technique, which partitions the data into k subsets and iteratively trains and tests the model on different combinations of these subsets.
 
